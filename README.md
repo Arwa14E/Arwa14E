@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arwa14e&label=Profile%20views&color=0e75b6&style=flat" alt="arwa14e" /> </p>
 
-<p align="left"> <a href="https://twitter.com/xr_246" target="blank"><img src="https://img.shields.io/twitter/follow/xr_246?logo=twitter&style=for-the-badge" alt="xr_246" /></a> </p>
+<p align="left"> <a href="https://twitter.com/A14_EN" target="blank"><img src="https://img.shields.io/twitter/follow/A14_EN?logo=twitter&style=for-the-badge" alt="A14_EN" /></a> </p>
 
 - 📫 How to reach me **arwa.eisa.neami@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xr_246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xr_246" height="30" width="40" /></a>
+<a href="https://twitter.com/A14_EN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="A14_EN" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arwaneami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arwaneami" height="30" width="40" /></a>
 </p>
 
